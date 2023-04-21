@@ -2,7 +2,7 @@
 title: "SMILE😀"
 category: info
 
-docname: draft-thomas-infi-smile-latest
+docname: draft-thomas_jacco-infi-smile-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
